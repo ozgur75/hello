@@ -6,3 +6,5 @@ degisiklik3
 degisiklik4
 
 degisiklik5
+
+degisiklik6
